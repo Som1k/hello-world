@@ -1,2 +1,6 @@
 # hello-world
-&lt; blank>
+{
+  Console.WriteLine("Urmomgay!")
+    Console.ReadKey();
+  return 0;
+  }
