@@ -2,5 +2,4 @@
 {
   Console.WriteLine("Urmomgay!")
     Console.ReadKey();
-  return 0;
   }
